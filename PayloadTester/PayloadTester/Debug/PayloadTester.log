@@ -1,0 +1,4 @@
+﻿  PayloadTester.cpp
+c:\users\user\source\repos\payloadtester\payloadtester\payloadtester.cpp(123): warning C4101: 'i': 未參考的區域變數
+c:\users\user\source\repos\payloadtester\payloadtester\payloadtester.cpp(130): warning C4101: 'i': 未參考的區域變數
+  PayloadTester.vcxproj -> c:\users\user\source\repos\PayloadTester\Debug\PayloadTester.exe

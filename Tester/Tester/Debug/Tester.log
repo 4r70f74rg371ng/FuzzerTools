@@ -1,0 +1,5 @@
+﻿  Tester.cpp
+c:\users\user\source\repos\tester\tester\tester.cpp(121): warning C4101: 'i': 未參考的區域變數
+c:\users\user\source\repos\tester\tester\tester.cpp(128): warning C4101: 'i': 未參考的區域變數
+c:\users\user\source\repos\tester\tester\tester.cpp(333): warning C4018: '<': signed/unsigned 不相符
+  Tester.vcxproj -> C:\Users\User\source\repos\Tester\Debug\Tester.exe
